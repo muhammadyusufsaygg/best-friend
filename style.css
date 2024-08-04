@@ -1,0 +1,37 @@
+body {
+    background-color: #2e3d3d;
+    color: #000;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    background-color: #4d2b2b;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+}
+
+.box {
+    background-color: #65e8d9;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid #000;
+}
+
+.content {
+    border: 5px solid #e80000;
+    padding: 10px;
+}
+
+hr {
+    border: 3px dashed #000;
+}
